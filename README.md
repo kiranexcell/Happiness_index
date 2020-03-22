@@ -34,9 +34,8 @@
  10.Australia
    
  11.Austria
-   
- 
- when analysing these countries it is Astonishing to know that "coordinates","Area","Average mean sea level Hight"
+  
+ when analysing these 11 countries it is Astonishing to know that "coordinates","Area","Average mean sea level Hight"
  played a major correlation apart from "GDP".\
  73% of the countries are 40 degrees north from "equater" and 30 degrees below "Northpole"\
  To be precise the coordinate ranges are:[Latitude 46N and Longitude -19E "TO" Latitude 65N and Longitude 26E]
