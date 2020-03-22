@@ -37,7 +37,7 @@
    
  
  when analysing these countries it is Astonishing to know that "coordinates","Area","Average mean sea level Hight"
- played a major correlation apart from "GDP".
- 73% of the countries are 40 degrees north from "equater" and 30 degrees below "Northpole"
+ played a major correlation apart from "GDP".\
+ 73% of the countries are 40 degrees north from "equater" and 30 degrees below "Northpole"\
  To be precise the coordinate ranges are:[Latitude 46N and Longitude -19E "TO" Latitude 65N and Longitude 26E]
  covering altogether 15 lakh square kilometers and at an Average Hight of 4000 feet above Mean sea level.
