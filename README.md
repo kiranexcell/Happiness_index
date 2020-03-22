@@ -1,4 +1,4 @@
- Happiness index of countries from 2015 to 2019													Hover on the Marker to know the name of the "country"											Understanding color code
+ Happiness index of countries from 2015 to 2019												  	Hover on the Marker to know the name of the "country"											Understanding color code
  
 	  Color				Happiness rank			Segment
   
